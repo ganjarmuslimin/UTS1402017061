@@ -160,8 +160,7 @@
       }
     }
    
-    score.append('Kamu Menjawab ' + numCorrect + ' pertanyaan dari ' +
-                 questions.length + ' right!!!');
+    score.append('Kamu Mendapatkan skor ' + numCorrect + '!!!'
     return score;
   }
 })();
