@@ -685,7 +685,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about-img.jpg") center center no-repeat;
+  background: url("../img/5m.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
